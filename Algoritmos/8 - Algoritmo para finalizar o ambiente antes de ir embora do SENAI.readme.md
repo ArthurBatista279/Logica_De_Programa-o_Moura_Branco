@@ -7,3 +7,5 @@
 7. Guardar o notebook
 8. Guardar o mouse
 9. Conferir se o ambiente está limpo
+10. Esperar para sair da sala
+11. Ir embora
